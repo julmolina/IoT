@@ -1,0 +1,24 @@
+{"empleados":[
+    {
+        "nombre":"juan",
+        "puesto":"Desarrollador Web"
+
+    },
+    {
+        "nombre":"Alejandra",
+        "puesto":"Diseñador Gráfico"
+
+    },
+    {
+        "nombre":"Pedro",
+        "puesto":"Aplicaciones Moviles"
+
+    },
+    {
+        "nombre":"Julian Molina",
+        "puesto":"Ingeniero Electrónico USCO"
+
+    }
+
+]
+}
