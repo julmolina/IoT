@@ -1,28 +1,52 @@
 {
-  "posts": [
-    {"empleados":[
+  "posts": {"arduino":[
     {
-        "nombre":"juan",
-        "puesto":"Desarrollador Web"
+        "plan":"Free",
+        "costo":0,
+        "enlace": "https://cloud.arduino.cc/plans"
 
     },
     {
-        "nombre":"Alejandra",
-        "puesto":"Diseñador Gráfico"
+        "plan":"Entry",
+        "costo":23.88,
+        "enlace": "https://cloud.arduino.cc/plans"
 
     },
     {
-        "nombre":"Pedro",
-        "puesto":"Aplicaciones Moviles"
+        "plan":"Maker",
+        "costo":71.88,
+        "enlace": "https://cloud.arduino.cc/plans"
 
     },
     {
-        "nombre":"Julian Molina",
-        "puesto":"Ingeniero Electrónico USCO"
+        "plan":"Maker Plus",
+        "costo":239.98,
+        "enlace": "https://cloud.arduino.cc/plans"
+
+    }
+],
+"sensor":[
+    {
+        "nombre":"LM35",
+        "costo":2
+
+    },
+    {
+        "nombre":"DHT11",
+        "costo":5
+
+    },
+    {
+        "nombre":"PIR",
+        "costo":10
+
+    },
+    {
+        "nombre":"Termocupla Tipo K",
+        "costo":15
 
     }
 
 ]
 }
-  ]
 }
