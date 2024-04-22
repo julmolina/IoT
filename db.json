@@ -1,8 +1,28 @@
 {
   "posts": [
+    {"empleados":[
     {
-      "id": 7709986,
-      "title": "Julian Molina Proyecto IoT"
+        "nombre":"juan",
+        "puesto":"Desarrollador Web"
+
+    },
+    {
+        "nombre":"Alejandra",
+        "puesto":"Diseñador Gráfico"
+
+    },
+    {
+        "nombre":"Pedro",
+        "puesto":"Aplicaciones Moviles"
+
+    },
+    {
+        "nombre":"Julian Molina",
+        "puesto":"Ingeniero Electrónico USCO"
+
     }
+
+]
+}
   ]
 }
