@@ -22,28 +22,130 @@
         "plan":"Maker Plus",
         "costo":239.98,
         "enlace": "https://cloud.arduino.cc/plans"
-
+    },
+    {
+        "plan":"ThingSpeak",
+        "costo":0,
+        "enlace": "https://thingspeak.com/prices"
+    },
+    {
+        "plan":"Azure",
+        "costo":120,
+        "enlace": "https://azure.microsoft.com/en-us/pricing/details/iot-hub/?ef_id=_k_Cj0KCQjw3ZayBhDRARIsAPWzx8r81-jmkrwfK4xSAaY_ns831fQHXdDy3h_wyDn3QqaX9Gj8QysgTlEaAhH1EALw_wcB_k_&OCID=AIDcmm3804ythc_SEM__k_Cj0KCQjw3ZayBhDRARIsAPWzx8r81-jmkrwfK4xSAaY_ns831fQHXdDy3h_wyDn3QqaX9Gj8QysgTlEaAhH1EALw_wcB_k_&gad_source=1&gclid=Cj0KCQjw3ZayBhDRARIsAPWzx8r81-jmkrwfK4xSAaY_ns831fQHXdDy3h_wyDn3QqaX9Gj8QysgTlEaAhH1EALw_wcB"
+    },
+    {
+        "plan":"Ubidots",
+        "costo":499,
+        "enlace": "https://es.ubidots.com/plans"
+    },
+    {
+        "plan":"Blink",
+        "costo":0,
+        "enlace": "https://blynk.io/pricing"
     }
+
 ],
 "sensor":[
     {
-        "nombre":"LM35",
-        "costo":2
+        "nombre":"Temperatura LM35",
+        "costo":10660,
+        "enlace": "https://www.alldatasheet.com/datasheet-pdf/pdf/517588/TI1/LM35.html"
 
     },
     {
-        "nombre":"DHT11",
-        "costo":5
+        "nombre":"Humedad y Temperatura DHT11",
+        "costo":7800,
+        "enlace": "https://www.alldatasheet.com/view.jsp?Searchword=Dht11%20datasheet&gad_source=1&gclid=Cj0KCQjw3ZayBhDRARIsAPWzx8o5naY13Rkhrui7ca9tETwxzDrCcpDCSjNAUPVzCzCmSXJOIHsxH6kaAvGjEALw_wcB"
 
     },
     {
-        "nombre":"PIR",
-        "costo":10
+        "nombre":"Humedad del Suelo SEN0193",
+        "costo":29900,
+        "enlace": "https://www.digikey.com/htmldatasheets/production/2071177/0/0/1/sen0193.html"
 
     },
     {
         "nombre":"Termocupla Tipo K",
-        "costo":15
+        "costo":31000,
+        "enlace": "https://www.makerelectronico.com/producto/termocupla-tipo-k-driver-max6675/"
+
+    },
+    {
+        "nombre":"Movimiento HC-SR501 PIR",
+        "costo":12987,
+        "enlace": "https://datasheetspdf.com/pdf-down/H/C/-/HC-SR501-ETC.pdf"
+
+    },
+    {
+        "nombre":"Ultrasonido HC-SR04",
+        "costo":5100,
+        "enlace": "https://www.alldatasheet.com/view.jsp?Searchword=Hcsr04%20datasheet&gad_source=1&gclid=Cj0KCQjw3ZayBhDRARIsAPWzx8oBbjEUVNdsUxWz_IkCnyeNpFlRgmuUkpbFfnmCvQxkyjXHH0g6guAaAs5NEALw_wcB"
+
+    },
+    {
+        "nombre":"Gas MQ2",
+        "costo":19500,
+        "enlace": "https://www.mouser.com/datasheet/2/321/605-00008-MQ-2-Datasheet-370464.pdf"
+
+    },
+    {
+        "nombre":"Ritmo Cardiaco MAX30102",
+        "costo":22000,
+        "enlace": "https://www.alldatasheet.com/view.jsp?Searchword=Max30102%20datasheet&gad_source=1&gclid=Cj0KCQjw3ZayBhDRARIsAPWzx8pEX-L9yH_194hqSidp9Mt8GLq3K1FMjdsiGjAhfiHWWcLUr2Gq3aUaAjh1EALw_wcB"
+
+    }
+
+],
+"embebido":[
+    {
+        "nombre":"ARDUINO YUN",
+        "costo":2,
+        "enlace": "https://cloud.arduino.cc/plans"
+
+    },
+    {
+        "nombre":"RASPEBERRY PI4",
+        "costo":5,
+        "enlace": "https://cloud.arduino.cc/plans"
+
+    },
+    {
+        "nombre":"ESP32",
+        "costo":10,
+        "enlace": "https://cloud.arduino.cc/plans"
+
+    },
+    {
+        "nombre":"STM32",
+        "costo":15,
+        "enlace": "https://cloud.arduino.cc/plans"
+
+    }
+
+],
+"actuador":[
+    {
+        "nombre":"LED",
+        "costo":2,
+        "enlace": "https://cloud.arduino.cc/plans"
+
+    },
+    {
+        "nombre":"MOTOR DC",
+        "costo":5,
+        "enlace": "https://cloud.arduino.cc/plans"
+
+    },
+    {
+        "nombre":"SERVOMOTOR",
+        "costo":10,
+        "enlace": "https://cloud.arduino.cc/plans"
+
+    },
+    {
+        "nombre":"MOTOR PASO A PASO",
+        "costo":15,
+        "enlace": "https://cloud.arduino.cc/plans"
 
     }
 
